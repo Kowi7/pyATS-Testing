@@ -1,0 +1,3 @@
+{
+    "output": "total 27072\r\ndrwxr-xr-x    4 ubnt     users          656 Dec 17 16:59 .\r\ndrwxr-xr-x    1 root     root           224 Dec 17 14:35 ..\r\n-rw-r--r--    1 ubnt     users          220 May 15  2017 .bash_logout\r\n-rw-r--r--    1 ubnt     users          192 Jun 15  2023 .bashrc\r\n-rw-------    1 ubnt     users           22 Dec 17 16:38 .history\r\n-rw-r--r--    1 ubnt     users          675 May 15  2017 .profile\r\ndrwxr-x---    2 ubnt     users          232 Dec 17 14:35 .ssh\r\n-rw-r--r--    1 ubnt     users     27703818 Dec 17 16:59 tailscale.tgz\r\ndrwxr-xr-x    3 ubnt     users          224 Dec 17 17:01 tailscale_1.56.1_mipsle"
+}

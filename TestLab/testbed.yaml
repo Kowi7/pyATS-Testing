@@ -1,0 +1,18 @@
+testbed:
+  name: MyTestbed
+  credentials:
+    default:
+      username: "ubnt"
+      password: "MaxJusJak_3"
+
+devices:
+  my_device:
+    type: router
+    os: linux
+    connections:
+      cli:
+        protocol: ssh
+        ip: "10.0.1.1"
+
+
+

@@ -1,0 +1,4 @@
+#please execute the following commands in your terminal
+
+pip install pyATS
+pip install genie
